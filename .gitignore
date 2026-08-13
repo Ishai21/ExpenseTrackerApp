@@ -1,0 +1,5 @@
+# Ignore compiled Java archives and build outputs
+*.jar
+*.war
+target/
+build/
